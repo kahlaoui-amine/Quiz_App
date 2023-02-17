@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="https://github.com/kahlaoui-amine/Quiz_App/issues/1#issue-1589830881?raw=True" alt="App Screenshot" width = 720> 
+<img src="https://github.com/kahlaoui-amine/Quiz_App/issues/1#issue-1589830881" alt="App Screenshot" width = 720> 
 
